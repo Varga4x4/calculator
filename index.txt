@@ -1,0 +1,4 @@
+- improve css
+- expand to other operations
+
+- add JEST tests
